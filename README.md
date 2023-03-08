@@ -9,6 +9,7 @@ MY name is Dr. Paul Bergeron and I hold degrees in biology and entomology. I've 
 ### Experience
 
 **Ph.D. Washington State University**
+
 **B.S. Biology Washburn University**
 
 My current tech-stack is Python, R, Javascript, SQL, HTML, CSS programming.
